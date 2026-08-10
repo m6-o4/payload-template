@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/m6-o4/payload-template/compare/v2.0.1...v2.1.0) (2026-08-10)
+
+
+### Features
+
+* add form and job service infrastructure ([c22a92e](https://github.com/m6-o4/payload-template/commit/c22a92eb7b4eea75062452eed325a11fd89063c3))
+
 ## [2.0.1](https://github.com/m6-o4/payload-template-project/compare/v2.0.0...v2.0.1) (2026-08-07)
 
 ### Bug Fixes
