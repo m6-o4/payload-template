@@ -22,7 +22,7 @@ const AuthLayout = (props: { children: ReactNode }) => {
 
 	return (
 		<ClerkProvider>
-			<html lang="en" suppressHydrationWarning>
+			<html lang="en" suppressHydrationWarning className={geist.variable}>
 				<body
 					className={cn(
 						"bg-muted flex min-h-screen items-center justify-center p-4",
