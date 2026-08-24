@@ -26,7 +26,7 @@ const SaasLayout = async (props: { children: ReactNode }) => {
 
 	return (
 		<ClerkProvider>
-			<html lang="en" suppressHydrationWarning>
+			<html lang="en" suppressHydrationWarning className={geist.variable}>
 				<body className={cn("bg-muted", geist.className)}>
 					<ThemeProvider
 						attribute="class"
