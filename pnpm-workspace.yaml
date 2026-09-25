@@ -39,5 +39,7 @@ minimumReleaseAgeExclude:
   - lucide-react@1.28.0
   - '@types/react-dom@19.2.4'
   - '@types/react@19.2.18'
-  - framer-motion@13.4.3
-  - motion@13.4.3
+  - framer-motion@13.4.3 || 13.4.4
+  - motion@13.4.3 || 13.4.4
+  - dotenv@18.0.4
+  - motion-dom@13.4.4
